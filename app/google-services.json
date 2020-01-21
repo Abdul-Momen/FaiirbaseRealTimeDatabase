@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309676999518",
+    "firebase_url": "https://fairbase-realtime-database.firebaseio.com",
+    "project_id": "fairbase-realtime-database",
+    "storage_bucket": "fairbase-realtime-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309676999518:android:c80c5bc3f5541a30ae05cf",
+        "android_client_info": {
+          "package_name": "com.momen.faiirbaserealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309676999518-0uhjt9ueofubd65hqhl8ehrdehfc2erd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momen.faiirbaserealtimedatabase",
+            "certificate_hash": "1447336aed0e4ae1ff13b49efb6aaf5ee3942104"
+          }
+        },
+        {
+          "client_id": "309676999518-b4i6egmabbt7gqjri0ouia2d7jaiad3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5TdMIONdq7i2p5mPqxYYbygfJg1bq6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309676999518-b4i6egmabbt7gqjri0ouia2d7jaiad3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
